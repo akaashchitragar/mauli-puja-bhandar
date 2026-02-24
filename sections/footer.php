@@ -19,10 +19,8 @@
 
             <div class="footer-bottom pt-3 d-flex flex-column flex-md-row justify-content-between align-items-center gap-2">
                 <p class="small text-footer-muted mb-0">&copy; <?= date('Y') ?> Mauli Puja Bhandar. All rights reserved.</p>
-                <div class="d-flex align-items-center gap-2 small text-footer-muted">
-                    <span>Made with</span>
-                    <span class="text-danger" style="animation: pulse 2s infinite;">&#10084;&#65039;</span>
-                    <span>in Kolhapur</span>
+                <div class="small text-footer-muted">
+                    Designed &amp; Developed by <a href="https://webart4u.com" target="_blank" rel="noopener noreferrer" class="text-decoration-none fw-bold" style="color: var(--primary);">WebArt4U</a>
                 </div>
             </div>
         </div>

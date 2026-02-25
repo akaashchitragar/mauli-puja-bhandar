@@ -19,7 +19,7 @@
                 ],
                 [
                     'title' => 'Festival Decor',
-                    'subtitle' => 'Torans, Rangoli & Lights',
+                    'subtitle' => 'Rangoli, Garlands & Lights',
                     'image' => 'https://lh3.googleusercontent.com/aida-public/AB6AXuASzruZVkK_kS-Qkyht2jaDcp0D54P4MxLGWYwHyihch2QpPNN3aBX50RLWzyCEYC-5UR2zzMLd92CYnzdpHp2PxUXhlVQ2RTU5Ooha6dsdtsLqhg4Wv63WNnjcjhrpYlGPycn5wTZV2AxlM4poggMtEZVkRSfZLRaJtWX7gtRBYAWVF0hce_a_pndmzKIjq3H5xmu-MsVunhNwnIc6RJTQhnzQgO4XrNKVBffDQG-ntaftgoxbONX66WgOrdKh2m3M4leWwBLXcDH3'
                 ],
                 [

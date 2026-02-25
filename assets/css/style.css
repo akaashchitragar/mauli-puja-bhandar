@@ -745,7 +745,7 @@ body {
 @media (max-width: 767.98px) {
     /* Hide scrollbar on mobile */
     html, body {
-        font-size: 0.875rem;
+        font-size: 0.9375rem;
         scrollbar-width: none; /* Firefox */
         -ms-overflow-style: none; /* IE/Edge */
         overflow-x: hidden;
@@ -762,18 +762,18 @@ body {
         min-height: 400px;
     }
     .hero-title-hindi {
-        font-size: 1.5rem;
+        font-size: 1.65rem;
     }
     .hero-content h1 .display-6 {
-        font-size: 1rem;
+        font-size: 1.1rem;
     }
     .hero-content p {
-        font-size: 0.8rem !important;
+        font-size: 0.875rem !important;
         line-height: 1.5;
     }
     .btn-hero-outline {
-        padding: 0.6rem 1.25rem;
-        font-size: 0.8rem;
+        padding: 0.65rem 1.35rem;
+        font-size: 0.85rem;
     }
 
     /* Trust Badges */
@@ -785,10 +785,10 @@ body {
         padding: 0.5rem;
     }
     .trust-badge-item h3 {
-        font-size: 0.9rem !important;
+        font-size: 0.95rem !important;
     }
     .trust-badge-item p {
-        font-size: 0.75rem !important;
+        font-size: 0.8rem !important;
     }
     .trust-badge-icon {
         width: 36px;
@@ -799,18 +799,18 @@ body {
 
     /* Section headings - global */
     .display-6 {
-        font-size: 1.35rem !important;
+        font-size: 1.45rem !important;
     }
     .fs-2 {
-        font-size: 1.25rem !important;
+        font-size: 1.35rem !important;
     }
     .fs-5 {
-        font-size: 0.95rem !important;
+        font-size: 1rem !important;
     }
 
     /* Intro text */
     .py-5 .text-muted.fs-5 {
-        font-size: 0.85rem !important;
+        font-size: 0.9rem !important;
     }
 
     /* Category Cards */
@@ -821,11 +821,11 @@ body {
         padding: 0.75rem;
     }
     .category-card .card-content h3 {
-        font-size: 0.85rem !important;
+        font-size: 0.9rem !important;
     }
     .category-card .card-subtitle {
         opacity: 1;
-        font-size: 0.7rem;
+        font-size: 0.75rem;
     }
 
     /* Collection Cards */
@@ -841,10 +841,10 @@ body {
         margin: 0 auto;
     }
     .collection-card .collection-card-title {
-        font-size: 0.9rem !important;
+        font-size: 0.95rem !important;
     }
     .collection-card p {
-        font-size: 0.75rem !important;
+        font-size: 0.8rem !important;
     }
 
     /* Gallery */
@@ -861,19 +861,19 @@ body {
         min-height: 220px;
     }
     .legacy-image-wrapper .label p {
-        font-size: 0.65rem !important;
+        font-size: 0.7rem !important;
     }
     .legacy-image-wrapper .label h3 {
-        font-size: 0.95rem !important;
+        font-size: 1rem !important;
     }
     .section-label {
-        font-size: 0.7rem;
+        font-size: 0.75rem;
     }
     .quote-block {
         padding: 0.75rem;
     }
     .quote-block p.fs-5 {
-        font-size: 0.85rem !important;
+        font-size: 0.9rem !important;
     }
     .quote-block .quote-icon {
         font-size: 1.5rem;
@@ -884,7 +884,7 @@ body {
         padding: 0.75rem;
     }
     .info-card h4 {
-        font-size: 0.9rem !important;
+        font-size: 0.95rem !important;
     }
     .info-card-icon {
         width: 36px;
@@ -892,7 +892,7 @@ body {
         font-size: 1rem;
     }
     .info-card address {
-        font-size: 0.8rem;
+        font-size: 0.85rem;
     }
     .map-wrapper {
         min-height: 220px;
@@ -903,11 +903,11 @@ body {
 
     /* FAQ */
     .faq-item .accordion-button {
-        font-size: 0.85rem;
+        font-size: 0.9rem;
         padding: 0.85rem 1rem;
     }
     .faq-item .accordion-body {
-        font-size: 0.8rem;
+        font-size: 0.85rem;
         padding: 0 1rem 0.85rem;
     }
 
@@ -917,7 +917,7 @@ body {
         padding-bottom: 1.5rem !important;
     }
     .footer-dark .fs-6 {
-        font-size: 0.85rem !important;
+        font-size: 0.9rem !important;
     }
     .footer-bottom {
         text-align: center;

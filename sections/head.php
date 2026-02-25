@@ -72,7 +72,7 @@
     <link href="https://cdn.jsdelivr.net/npm/remixicon@4.1.0/fonts/remixicon.css" rel="stylesheet" />
 
     <!-- Custom CSS -->
-    <link href="assets/css/style.css" rel="stylesheet" />
+    <link href="assets/css/style.css?v=20260225" rel="stylesheet" />
 
     <!-- Structured Data: LocalBusiness -->
     <script type="application/ld+json">

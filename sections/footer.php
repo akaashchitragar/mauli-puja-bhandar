@@ -8,7 +8,7 @@
             </div>
 
             <p class="small text-footer-muted mb-3">
-                Authentic puja samagri, brass idols &amp; spiritual accessories in Kolhapur.
+                Authentic puja samagri, incense sticks &amp; spiritual accessories in Kolhapur.
             </p>
 
             <div class="d-flex justify-content-center gap-3 mb-4">

@@ -7,7 +7,7 @@
         </h1>
 
         <p class="text-white-50 fs-5 mx-auto mb-5" style="max-width: 640px;">
-            Kolhapur's trusted store for authentic puja samagri, brass idols, incense sticks, havan items &amp; spiritual essentials near Mahalaxmi Temple.
+            Kolhapur's trusted store for authentic puja samagri, incense sticks, havan items &amp; spiritual essentials.
         </p>
 
         <div class="d-flex gap-3 justify-content-center">

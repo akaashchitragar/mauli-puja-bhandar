@@ -1,11 +1,11 @@
 <!-- Location Section -->
-<section id="location" class="location-section py-5 mt-5">
+<section id="location" class="location-section py-5 mt-5" aria-label="Mauli Puja Bhandar store location and contact">
     <div class="container">
         <div class="text-center mb-5">
             <span class="section-label">Visit Us</span>
-            <h2 class="display-6 fw-bold">Locate Our Store</h2>
+            <h2 class="display-6 fw-bold">Visit Mauli Puja Bhandar in Kolhapur</h2>
             <p class="text-muted mt-3 mx-auto" style="max-width: 640px;">
-                Experience the fragrance of fresh incense and the gleam of polished brass. We are located just a few steps away from the historic Mahalaxmi Temple.
+                Located near Mahalaxmi Temple in Nandanvan Colony, Kolhapur. Walk in to explore our wide range of puja samagri, brass idols, and spiritual accessories.
             </p>
         </div>
 

@@ -1,10 +1,10 @@
 <!-- Introduction Section -->
-<section class="py-5 mt-5">
+<section class="py-5 mt-5" aria-label="About Mauli Puja Bhandar Kolhapur">
     <div class="container">
         <div class="text-center mx-auto" style="max-width: 720px;">
-            <h2 class="display-6 fw-bold mb-4">Where Tradition Meets Devotion</h2>
+            <h2 class="display-6 fw-bold mb-4">Best Puja Items Store in Kolhapur</h2>
             <p class="text-muted fs-5 lh-lg">
-                Situated in the heart of Kolhapur, Mauli Puja Bhandar has been serving devotees for decades. We understand the sanctity of your rituals, which is why we ensure every item—from the smallest camphor tablet to the most elaborate idol—is pure and pristine.
+                Situated in the heart of Kolhapur near the sacred Mahalaxmi Temple, Mauli Puja Bhandar is your one-stop shop for premium puja samagri, incense, camphor, kumkum, havan items, and all daily &amp; festival worship essentials — sourced directly from trusted artisans.
             </p>
         </div>
 
@@ -13,8 +13,8 @@
             <?php
             $categories = [
                 [
-                    'title' => 'Brass Idols',
-                    'subtitle' => 'Handcrafted Murti & Lamps',
+                    'title' => 'Puja Samagri',
+                    'subtitle' => 'Kumkum, Haldi & Essentials',
                     'image' => 'https://lh3.googleusercontent.com/aida-public/AB6AXuBViH_7i5bOCVTLuai9qEWAu28w2x0Qz7AThs0Oc63Pxb65g8BX5SIuXaV4_m201gD7WV1uAWZJyXCmTHyypMqre-renNAgQTAkowKfoMRwOWCvp9ysmmllZ7gH6s_hJ2Vp1N0ZFEhnKkb4SU7l71jNWqUQzFHFJq5lIqsp-MdumoLGLnkJ7scZlcXx_7SxQGdhKBsLZYHKPGInIR7WVlPbyoHRal-ap-sEeWR3fj5tiSqEz5Zl6MadzlF9Z1nZqFnivxXUj4V3mQ6P'
                 ],
                 [

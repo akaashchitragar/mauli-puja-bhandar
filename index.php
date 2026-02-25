@@ -15,4 +15,5 @@
 <?php include 'sections/gallery.php'; ?>
 <?php include 'sections/legacy.php'; ?>
 <?php include 'sections/location.php'; ?>
+<?php include 'sections/faq.php'; ?>
 <?php include 'sections/footer.php'; ?>

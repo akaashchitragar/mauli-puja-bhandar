@@ -1,13 +1,13 @@
 <!-- Hero Section -->
-<section id="home" class="hero-section">
+<section id="home" class="hero-section" aria-label="Mauli Puja Bhandar - Kolhapur Puja Store">
     <div class="hero-content">
         <h1 class="mb-3">
-            <span class="d-block hero-title-hindi display-3 fw-bold mb-2">माऊली पुजा भांडार</span>
+            <span class="d-block hero-title-hindi display-3 fw-bold mb-2" lang="mr">माऊली पुजा भांडार</span>
             <span class="d-block text-white display-6 fw-bold" style="font-family: 'Manrope', sans-serif;">Mauli Puja Bhandar</span>
         </h1>
 
         <p class="text-white-50 fs-5 mx-auto mb-5" style="max-width: 640px;">
-            Kolhapur's premier destination for authentic puja items, sacred accessories, and spiritual essentials. Connecting you with divinity through quality.
+            Kolhapur's trusted store for authentic puja samagri, brass idols, incense sticks, havan items &amp; spiritual essentials near Mahalaxmi Temple.
         </p>
 
         <div class="d-flex gap-3 justify-content-center">

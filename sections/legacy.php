@@ -1,14 +1,14 @@
 <!-- Legacy / About Section -->
-<section id="about" class="py-5 mt-4">
+<section id="about" class="py-5 mt-4" aria-label="About Mauli Puja Bhandar - Our Story">
     <div class="container">
         <div class="row g-5 align-items-center">
             <!-- Image Column -->
             <div class="col-lg-6">
                 <div class="legacy-image-wrapper">
-                    <img src="https://res.cloudinary.com/dsn3mtgjf/image/upload/v1771945322/IMG_20260221_175959749_mxxmxb.jpg" alt="Mauli Puja Bhandar Store" class="legacy-img" />
+                    <img src="https://res.cloudinary.com/dsn3mtgjf/image/upload/v1771945322/IMG_20260221_175959749_mxxmxb.jpg" alt="Mauli Puja Bhandar store front in Kolhapur - authentic puja samagri shop near Mahalaxmi Temple" class="legacy-img" />
                     <div class="overlay"></div>
                     <div class="label">
-                        <p class="small fw-medium text-uppercase" style="color: #fed7aa; letter-spacing: 0.1em;">Established 2021</p>
+                        <p class="small fw-medium text-uppercase" style="color: #fed7aa; letter-spacing: 0.1em;">Established 2022</p>
                         <h3 class="fs-4 fw-bold text-white">A Legacy of Faith</h3>
                     </div>
                 </div>
@@ -18,15 +18,15 @@
             <div class="col-lg-6">
                 <span class="section-label">Our Story</span>
                 <h2 class="display-6 fw-bold mb-4 lh-sm">
-                    Serving Devotion in the Heart of Kolhapur
+                    Kolhapur's Trusted Puja Samagri Store Since 2022
                 </h2>
 
                 <div class="text-muted lh-lg">
                     <p>
-                        Founded near the sacred <strong>Mahalaxmi Temple in Kolhapur</strong>, Mauli Puja Bhandar has been a trusted destination for authentic puja samagri, brass idols, incense, havan items, and spiritual accessories since 2021.
+                        Founded near the sacred <strong>Mahalaxmi Temple in Kolhapur</strong>, Mauli Puja Bhandar has been a trusted destination for authentic puja samagri, incense, havan items, kumkum, and spiritual accessories since 2022.
                     </p>
                     <p>
-                        We source premium kumkum, sandalwood, handcrafted brassware, and festival essentials directly from artisans — ensuring purity and quality in every product we offer.
+                        We source premium camphor, sandalwood, dhoop, agarbatti, and festival essentials directly from artisans — ensuring purity and quality in every product we offer.
                     </p>
                 </div>
 

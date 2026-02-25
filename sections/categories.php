@@ -6,12 +6,12 @@
 </div>
 
 <!-- Product Categories Section -->
-<section id="products" class="py-5">
+<section id="products" class="py-5" aria-label="Puja products and samagri collection">
     <div class="container">
         <div class="text-center mb-5">
             <h2 class="fs-2 fw-bold mb-2">Our Sacred Collection</h2>
             <p class="text-muted mx-auto" style="max-width: 520px;">
-                Discover authentic puja essentials sourced directly from artisans, curated for your spiritual journey.
+                Shop authentic puja samagri, incense, havan items &amp; festival essentials — sourced directly from skilled artisans across India.
             </p>
         </div>
 
@@ -34,9 +34,9 @@
                     'desc' => 'High-quality sacred wood, pure ghee, dried herbs, and grains for Homam.'
                 ],
                 [
-                    'icon' => 'ri-mental-health-fill',
-                    'title' => 'Divine Idols',
-                    'desc' => 'Exquisite brass, copper, and eco-friendly clay murtis crafted by local artisans.'
+                    'icon' => 'ri-palette-fill',
+                    'title' => 'Rangoli & Decor',
+                    'desc' => 'Vibrant rangoli colors, gulal, torans, and decorative accessories for every occasion.'
                 ]
             ];
 

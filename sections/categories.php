@@ -36,7 +36,7 @@
                 [
                     'icon' => 'ri-palette-fill',
                     'title' => 'Rangoli & Decor',
-                    'desc' => 'Vibrant rangoli colors, gulal, garlands, and decorative accessories for every occasion.'
+                    'desc' => 'Vibrant rangoli colors, gulal, diyas, and decorative accessories for every occasion.'
                 ]
             ];
 

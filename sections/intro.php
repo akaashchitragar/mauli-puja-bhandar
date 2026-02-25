@@ -15,7 +15,7 @@
                 [
                     'title' => 'Puja Samagri',
                     'subtitle' => 'Kumkum, Haldi & Essentials',
-                    'image' => 'https://lh3.googleusercontent.com/aida-public/AB6AXuBViH_7i5bOCVTLuai9qEWAu28w2x0Qz7AThs0Oc63Pxb65g8BX5SIuXaV4_m201gD7WV1uAWZJyXCmTHyypMqre-renNAgQTAkowKfoMRwOWCvp9ysmmllZ7gH6s_hJ2Vp1N0ZFEhnKkb4SU7l71jNWqUQzFHFJq5lIqsp-MdumoLGLnkJ7scZlcXx_7SxQGdhKBsLZYHKPGInIR7WVlPbyoHRal-ap-sEeWR3fj5tiSqEz5Zl6MadzlF9Z1nZqFnivxXUj4V3mQ6P'
+                    'image' => 'https://res.cloudinary.com/dsn3mtgjf/image/upload/v1772007602/2151193778_ekewtg.jpg'
                 ],
                 [
                     'title' => 'Festival Decor',
@@ -30,7 +30,7 @@
                 [
                     'title' => 'Vastra & Threads',
                     'subtitle' => 'Cotton Wicks, Janieu & Cloth',
-                    'image' => 'https://lh3.googleusercontent.com/aida-public/AB6AXuC05GsZzj5H48kcngnevpHWKzx6WbhkK_pEtCCeTz9NJflFOG6K2Mx2AnNwoheoppHaBskyh9A_iZ9MkRg-q3h3b2NwoEUjFauuaFrTVbz90jwzZtQx_uHQgA1-qjQMjzxjLZsB69FMJP1JLKoLWtadqk-XoT9UUraqfUDLDwTrL2W3ql2km24KlTBl3oiL7ygFhThsJOdjN3LBpHqK6UC8AyQNun4_j-bB5UVfvGNVuY47LIj3NWEL0l94M6xtTtmoWmmK6xa5iiPH'
+                    'image' => 'https://res.cloudinary.com/dsn3mtgjf/image/upload/v1772007670/1772_fin45y.jpg'
                 ]
             ];
 
